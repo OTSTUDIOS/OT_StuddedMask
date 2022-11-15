@@ -3,7 +3,7 @@
 
 Thank you for the support, We hope you like the product ♥
 
-Need Support? Join discord and open a ticket: discord.gg/OTSTUDIOS
+Need Support? Join discord and open a ticket: https://discord.gg/OTSTUDIOS
 
 
 - Get the "Durty Cloth Tool" : https://cloth.durty.dev/
