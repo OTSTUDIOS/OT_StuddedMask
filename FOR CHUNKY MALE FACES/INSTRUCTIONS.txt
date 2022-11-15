@@ -1,0 +1,6 @@
+Replace the YDD's in the male folder with this if you want the mask to fit 99% of faces. 
+It will float a little on slimmer faces but fit perfectly on chunkier faces.
+
+Examples: 
+Slim face: https://prnt.sc/nDT2Lk0X34GO
+Chunkier face: https://prnt.sc/9WiZcfLxb6Bn
